@@ -22,6 +22,7 @@ set smarttab
 set softtabstop=4			
 set undolevels=1000			
 set backspace=indent,eol,start
+set mouse=a
 
 syntax on
 color eldar
