@@ -34,4 +34,5 @@ wget -q -O .vim/colors/eldar.vim https://raw.githubusercontent.com/agude/vim-eld
 
 # python installations
 sudo pip3 -q install virtualenv --user
+sudo /usr/bin/easy_install virtualenv
 sudo pip3 -q install zappa FLask progress boto3 feedparser newspaper3k --user
