@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
 
 # vim
-cp ../.vim/.vimrc ./vimrc.txt
+cp ./vimrc.txt ../.vim/.vimrc 
 
 # tmux
-cp ../.tmux.conf ./tmux.conf.txt
+cp ./tmux.conf.txt ../.tmux.conf 
 
 # bashrc
-cp ../.bashrc ./bashrc.txt
-
+cp ./bashrc.txt ../.bashrc 
